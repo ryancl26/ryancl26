@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ciara Ryan!
 
-🚀 About Me:
+🚀 About Me:  
 I'm a Computer Science major at Merrimack College with minors in Finance and Psychology. I have a strong background in Java, object-oriented design, and data structures, with experience working on graphics projects using Three.js and WebGL. I enjoy tackling complex problems, building interactive applications, and continuously expanding my technical skills.
 
 🛠️ Skills & Experience:
