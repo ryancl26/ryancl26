@@ -15,6 +15,6 @@ Enhancing my Three.js and WebGL skills with interactive projects
 Learning more about financial modeling and analysis  
   
 🎯 Interests:  
-Software Development & UX – creating modular, well-structured applications  
-Cybersecurity & Ethical Hacking – I’m curious about bug bounty programs
+Software Development – creating modular, well-structured applications  
+Cybersecurity – I’m curious about bug bounty programs
 
