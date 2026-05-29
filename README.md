@@ -7,7 +7,7 @@ My interests include software engineering, artificial intelligence, full-stack d
 ### 🛠️ Skills & Technologies
 **Programming Languages:** Java, Python, JavaScript, TypeScript, SQL, C, R
 **Frameworks & Technologies:** Three.js, WebGL, React Native, Expo, Git, MySQL, SQLite
-**Tools & Platforms:** GitHub, Jira, Trello, VS Code
+**Tools & Platforms:** GitHub, Jira, Trello, VS Code, Targetprocess
 
 ### 📚 Relevant Coursework
 * Data Structures & Algorithms
