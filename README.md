@@ -5,9 +5,9 @@ I'm a Software Engineer at Citizens and a recent graduate of Merrimack College, 
 My interests include software engineering, artificial intelligence, full-stack development, and building technology that solves real-world problems. I enjoy creating interactive applications, exploring new technologies, and continuously expanding my technical skill set.
 
 ### 🛠️ Skills & Technologies
-### Programming Languages: Java, Python, JavaScript, TypeScript, SQL, C, R
-### Frameworks & Technologies: Three.js, WebGL, React Native, Expo, Git, MySQL, SQLite
-### Tools & Platforms: GitHub, Jira, Trello, VS Code, Targetprocess
+### **Programming Languages:** Java, Python, JavaScript, TypeScript, SQL, C, R
+### **Frameworks & Technologies:** Three.js, WebGL, React Native, Expo, Git, MySQL, SQLite
+### **Tools & Platforms:** GitHub, Jira, Trello, VS Code, Targetprocess
 
 ### 📚 Relevant Coursework
 * Data Structures & Algorithms
